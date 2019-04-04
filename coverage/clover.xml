@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1554243353736" clover="3.2.0">
+  <project timestamp="1554243353736" name="All files">
+    <metrics statements="39" coveredstatements="16" conditionals="10" coveredconditionals="3" methods="23" coveredmethods="9" elements="72" coveredelements="28" complexity="0" loc="39" ncloc="39" packages="1" files="9" classes="9"/>
+    <file name="App.js" path="E:\mentor\ReactGlobal\ReactGlobal-task3_webpack\src\components\App.js">
+      <metrics statements="14" coveredstatements="9" conditionals="6" coveredconditionals="3" methods="7" coveredmethods="4"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="32" count="1" type="stmt"/>
+      <line num="36" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="38" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="41" count="1" type="stmt"/>
+      <line num="42" count="0" type="stmt"/>
+      <line num="43" count="0" type="stmt"/>
+      <line num="49" count="0" type="stmt"/>
+      <line num="50" count="0" type="stmt"/>
+      <line num="51" count="0" type="stmt"/>
+      <line num="55" count="1" type="stmt"/>
+      <line num="61" count="1" type="stmt"/>
+      <line num="62" count="1" type="stmt"/>
+    </file>
+    <file name="Link.js" path="E:\mentor\ReactGlobal\ReactGlobal-task3_webpack\src\components\Link.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+    </file>
+    <file name="error.js" path="E:\mentor\ReactGlobal\ReactGlobal-task3_webpack\src\components\error.js">
+      <metrics statements="6" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="10" count="0" type="stmt"/>
+      <line num="17" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="18" count="0" type="stmt"/>
+      <line num="28" count="0" type="stmt"/>
+    </file>
+    <file name="full_info.js" path="E:\mentor\ReactGlobal\ReactGlobal-task3_webpack\src\components\full_info.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="9" count="1" type="stmt"/>
+    </file>
+    <file name="header.js" path="E:\mentor\ReactGlobal\ReactGlobal-task3_webpack\src\components\header.js">
+      <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="9" count="0" type="stmt"/>
+    </file>
+    <file name="item.js" path="E:\mentor\ReactGlobal\ReactGlobal-task3_webpack\src\components\item.js">
+      <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <line num="9" count="0" type="stmt"/>
+      <line num="14" count="0" type="stmt"/>
+      <line num="15" count="0" type="stmt"/>
+      <line num="18" count="0" type="stmt"/>
+    </file>
+    <file name="item_info.js" path="E:\mentor\ReactGlobal\ReactGlobal-task3_webpack\src\components\item_info.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+    </file>
+    <file name="search.js" path="E:\mentor\ReactGlobal\ReactGlobal-task3_webpack\src\components\search.js">
+      <metrics statements="7" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="8" count="0" type="stmt"/>
+      <line num="9" count="0" type="stmt"/>
+      <line num="10" count="0" type="stmt"/>
+      <line num="11" count="0" type="stmt"/>
+      <line num="16" count="0" type="stmt"/>
+      <line num="21" count="0" type="stmt"/>
+    </file>
+    <file name="sum.js" path="E:\mentor\ReactGlobal\ReactGlobal-task3_webpack\src\components\sum.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

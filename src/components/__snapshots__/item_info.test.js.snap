@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link should render correctly 1`] = `
+<div
+  className=""
+>
+  <div
+    className="info_title"
+  >
+    <span>
+      Item 
+      title
+    </span>
+    <span
+      className="release_date"
+    >
+      date
+    </span>
+  </div>
+  <span
+    className="info_genres"
+  >
+    rock
+  </span>
+</div>
+`;
